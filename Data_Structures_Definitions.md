@@ -24,4 +24,4 @@
 
 Понятия похожие, но различать все же стоит. 
 
-[data](https://phoenixnap.com/kb/wp-content/uploads/2022/10/data-structures-types-classification.png)
+![data structures](https://phoenixnap.com/kb/wp-content/uploads/2022/10/data-structures-types-classification.png)
