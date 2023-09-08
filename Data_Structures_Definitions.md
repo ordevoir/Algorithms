@@ -23,3 +23,5 @@
 - структуру данных (реализацию АТД).
 
 Понятия похожие, но различать все же стоит. 
+
+[](https://phoenixnap.com/kb/wp-content/uploads/2022/10/data-structures-types-classification.png)
